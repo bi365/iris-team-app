@@ -2,4 +2,7 @@ Streamlit
 Numpy
 Pandas
 Seaborn
+Plotly
+Pyplot
+Matplotlib
 
